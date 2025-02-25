@@ -1,6 +1,7 @@
+(https://media.licdn.com/dms/image/v2/D4E16AQFcWV5dD5IA5A/profile-displaybackgroundimage-shrink_350_1400/B4EZU2LM0TG0AY-/0/1740370662668?e=1746057600&v=beta&t=rLddBEvz0F-fboiMjU3WCGrLAoC1djBatBdRhKRKKa0)
 ### Hi there 👋, my name is Dipu
 #### Completing Bachelor on Computer Science & Engineering
-![Completing Bachelor on Computer Science & Engineering](https://media.licdn.com/dms/image/v2/D4E16AQFcWV5dD5IA5A/profile-displaybackgroundimage-shrink_350_1400/B4EZU2LM0TG0AY-/0/1740370662668?e=1746057600&v=beta&t=rLddBEvz0F-fboiMjU3WCGrLAoC1djBatBdRhKRKKa0)
+![Completing Bachelor on Computer Science & Engineering]
 
 Student Of CSE | Python Programmer | Skilled in JavaScript, HTML, CSS | Passionate for Machine Learning and Artificial Intelligence
 
